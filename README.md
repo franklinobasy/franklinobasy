@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**franklinobasy/franklinobasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋🏾, I'm Franklin Obasi
+### I am pursuing Software Engineering from ALX School.
+- 🦾 I'm currently working on projects that will enhance my **Linux shell 💻 skills**.
+- 🧮 I am also learning how to code **C, and low-level programs work**.
 
-Here are some ideas to get you started:
+### Who Am I? 😎😎 
+- I am a lazy **Python🐍 Developer**. I love exploring shorter ways of writing codes!🤪
+- I am a Python Programming Course Instructor 👨🏾‍🏫 and Data Analyst 📊 at The Centre of Informtion and Telecommunication Engineering [C.I.T.E] - https://www.citeuniport.com 
+- I love💓 Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## More Info
+- I am available to work remotely 🌐
+- I am available for volunteering positions 🆓
+- I can do freelancing ⚒
+
+### ☎ Connect with me
+- 📧 franklinobasy@gmail.com
+- 🔗 www.linkedin.com/in/franklinobasy
+- 🤝🏾 www.twitter.com/franklinobasy
+
