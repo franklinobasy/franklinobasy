@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Hi 👋🏾, I'm Franklin Obasi
-### I am pursuing Software Engineering from ALX School.
+### I am currently pursuing Software Engineering from ALX School.
 - 🦾 I'm currently working on projects that will enhance my **Linux shell 💻 skills**.
 - 🧮 I am also learning how to code **C, and low-level programs work**.
 
