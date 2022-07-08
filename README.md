@@ -2,8 +2,7 @@
 
 # 👋🏾, I'm Franklin Obasi
 ### I am currently pursuing A Software Engineering Programme at ALX School.
-- 🦾 I'm currently working on projects that will enhance my **Linux shell 💻 skills**.
-- 🧮 I am also learning how to code **C, and low-level programs work**.
+
 
 ### Who Am I? 😎😎 
 - I am a lazy **Python🐍 Developer**. I love exploring shorter ways of writing codes!🤪
