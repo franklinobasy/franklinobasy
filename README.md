@@ -1,14 +1,6 @@
 ### Hi there 👋
 
 # 👋🏾, I'm Franklin Obasi
-### I am currently pursuing A Software Engineering Programme at ALX School.
-
-
-### Who Am I? 😎😎 
-- I am a lazy **Python🐍 Developer**. I love exploring shorter ways of writing codes!🤪
-- I am a Python Programming Course Instructor 👨🏾‍🏫 and Data Analyst 📊 at The Centre of Informtion and Telecommunication Engineering [C.I.T.E] - https://www.citeuniport.com 
-- I love💓 Data
-
 ## More Info
 - I am available to work remotely 🌐
 - I am available for volunteering positions 🆓
