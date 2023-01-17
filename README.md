@@ -1,12 +1,12 @@
-### ☁️☁️⛅🌥️🌨️🌧️☁️🌨️🌨️🌧️🌤️🌥️🌦️🌨️🌧️☁️⛅🌨️🌧️🌤️🌥️🌦️🌤️🌨️🌧️☁️🌧️🌨️🌤️ </br> Hi there, I am a Software and Cloud Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+ </br> Hi there, I am a Software and Cloud Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 
 
-<!-- ![vins-aws-ecr](https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif =250x250) -->
+![vins-aws-ecr](https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif =250x250)
 
 <hr>
 <h1>I am Franklin Obasi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-I'm a DevOps Engineer. I am passionate about Software engineering, Cloud engineering, DevOps culture, Infrastructure Automation.
+I'm a Software Engineer. I am passionate about Software engineering, Data Engineering, Cloud engineering, DevOps culture, Infrastructure Automation.
 
 
 - 😊 Pronouns: he/him
