@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <hr>
-<h1>I am Franklin Obasi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+<h1>Franklin Obasi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 I'm a Software Engineer. I am passionate about Software engineering, Data Engineering, Cloud engineering, DevOps culture, Infrastructure Automation.
 </br>
 😊 Pronouns: he/him
