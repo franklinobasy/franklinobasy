@@ -1,11 +1,11 @@
- </br> Hi there, I am a Software and Cloud Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <hr>
 <h1>I am Franklin Obasi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 I'm a Software Engineer. I am passionate about Software engineering, Data Engineering, Cloud engineering, DevOps culture, Infrastructure Automation.
+😊 Pronouns: he/him
 
 
-- 😊 Pronouns: he/him
 ## Skills:
 
 #### Languages:
