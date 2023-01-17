@@ -83,7 +83,7 @@ I'm a DevOps Engineer. I am passionate about Software engineering, Cloud enginee
 
 ## 🎯 Profile Hits Counter
 
-[![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{franklinobasy}1212%2Fhit-counter)
+![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{franklinobasy}1212%2Fhit-counter)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franklinobasy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklinobasy&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
