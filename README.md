@@ -1,11 +1,39 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+<p align="center">
+<a href="https://github.com/franklinobasy">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Franklin+Obasi;Software+Engineer+%7C+Devops+Engineer+%7C+Data+Engineer;AI+%7C+Machine+Learning" alt="Typing SVG" />
+</a>
+<br/>
+  
+<a href="https://drive.google.com/file/d/1NdKXa_23dGpu0SS_1LjOHe_maZfp9MEI/view?usp=sharing">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>
 
-<hr>
-<h1>Franklin Obasi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-I'm a Software Engineer. I am passionate about Software engineering, Data Engineering, Cloud engineering, DevOps culture, Infrastructure Automation.
-</br>
-😊 Pronouns: he/him
+<a href="https://www.linkedin.com/in/franklinobasy/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
 
+<a href="mailto:franklinobasy@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+  
+<br/>
+
+<a href="https://github.com/franklinobasy">
+    <img src="https://github-stats-alpha.vercel.app/api?username=franklinobasy&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franklinobasy&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franklinobasy&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franklinobasy&theme=dracula)
+
+</details>
+</p>
 
 ## Skills:
 
@@ -68,19 +96,7 @@ I'm a Software Engineer. I am passionate about Software engineering, Data Engine
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
 
-## 🤝 Let's connect
-
-<p align="center">
-  <a href="www.twitter.com/franklinobasy"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com/in/franklinobasy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
-  <a href="mailto:franklinobasy@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
-</p>
-
 
 ## 🎯 Profile Hits Counter
-
 ![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{franklinobasy}1212%2Fhit-counter)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franklinobasy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklinobasy&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinobasy&layout=compact)](https://github.com/franklinobasy/blog_with_flask)
